@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EmeryCool21
 - 👀 I’m interested in Aviation
-- 🌱 I’m currently learning about javascript
+- 🌱 I’m currently learning about Javascript, HTML, CSS, and Python
 - 💞️ I’m looking to collaborate on none
-- 📫 How to reach me NO
+- 📫 How to reach me none
 
 <!---
 EmeryCool21/EmeryCool21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
